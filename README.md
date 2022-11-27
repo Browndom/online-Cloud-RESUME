@@ -12,7 +12,7 @@ Also, for static website AWS Amplify can be used to easily host your website wit
 
 The diagram below shows a high level over view of the AWS architecture.
 
-To be able to configure this architecture you will need an AWS account and willingness to spend few $. Also, willingness to make fail and learn from it.
+To be able to configure this architecture you will need an AWS account and willingness to spend few $. Also, willingness to fail and learn from it.
 
 
 ![static website AWS architectural diagram](https://user-images.githubusercontent.com/118439072/204096736-96530b58-a838-490b-be1b-9e7ece42672c.jpg)
