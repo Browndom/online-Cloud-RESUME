@@ -1,6 +1,8 @@
 # online-Cloud-RESUME
 
-My online cloud resume build with HTML and CSS, hosted on AWS cloud. Visit it here https://www.brownresume.link/
+This is my online cloud resume Frontend repository. It contians the source code for the website. The backend repository can be found on my Gitlab account https://gitlab.com/Browndom
+
+My online cloud resume is build with HTML and CSS, hosted on AWS cloud. Visit it here https://www.brownresume.link/
 
 AWS Services such as S3, Cloudfront and Route 53 was used to host my resume website on AWS using the AWS console.
 
